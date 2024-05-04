@@ -1,0 +1,48 @@
+.Logotipo img{
+    height: 250px;
+}
+
+header {
+    background-color: white;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header
+h1, h2{
+    color: rgb(15, 15, 15);
+    align-items: center;
+
+}
+
+.Servicios{
+    text-align: center;
+}
+
+.Flota img{
+    height: 150px;
+}
+
+.Parrafo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Acerca{
+    text-align: center;
+    background-color: white;
+}
+
+footer{
+    background-color: white;
+    padding: auto;
+}
+body{
+    background-color: rgb(73, 73, 73);
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+}
